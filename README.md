@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @izzycafe (AKA Anna)
+- 👀 I’m interested in DevOps, infrastructure, dogs, cats, coffee, Minecraft, Lego, Pokemon :)
+- 🌱 I’m currently learning about setting up a blog site, ansible, terraform, AWS
+- 📫 How to reach me - anna@izzy.cafe
+- 🐱 Izzy is my cat
